@@ -1,0 +1,70 @@
+
+
+.title {
+    font-family: 'Overpass', sans-serif;
+    margin-bottom: -0.5%;
+}
+
+.name-tr th {
+    text-align: center;
+}
+
+.scoreboard .score {
+    text-align: center;
+    font-size: 3em;
+    position: relative;
+  }
+
+.startend-div {
+    text-align: center;
+}
+
+.start-game, .end-game {
+    margin-bottom: 1%;
+}
+
+.board {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    align-content: center;
+  }
+
+table {
+    margin: 5px auto;
+}
+  
+.vert {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+  
+.hori {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.div-x {
+    text-align: center;
+    font-size: 4em;
+    user-select: none;
+    color: #0b5ed7;
+}
+
+.div-o {
+    text-align: center;
+    font-size: 4em;
+    user-select: none;
+    color: #dc3545;
+}
